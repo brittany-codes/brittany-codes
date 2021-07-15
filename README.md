@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brittany-codes
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Angular JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Design Projects
 - 📫 How to reach me contact@brittanycodes.com
 
 <!---
